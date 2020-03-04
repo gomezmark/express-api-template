@@ -1,19 +1,19 @@
 # Simple template for API using express
 
-# Installation
+### Installation
 - npm i express-api-template
 - yarn install
 
-# For Development
+### For Development
 - yarn watch
 
-# To Build
+### To Build
 - yarn build
 
-# To Run on production
+### To run on production
 - yarn start
 
-# template includes
+### Template includes
 - hapi/boom
 - hapi/joi
 - ts/express
@@ -23,5 +23,5 @@
 - lodash
 
 
-# Feel Free to fork this template
-# happy coding
+### Feel free to fork this template
+#### happy coding
