@@ -1,6 +1,7 @@
 # Simple template for API using express
 
 # Installation
+- npm i express-api-template
 - yarn install
 
 # For Development
