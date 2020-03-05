@@ -4,9 +4,6 @@
   "main": "./src/index.js",
   "license": "MIT",
   "type": "module",
-  "engines": {
-    "node": "12.13.0"
-  },
   "scripts": {
     "dev": "node -r dotenv/config ./dist/index.js",
     "start": "node -r dotenv/config ./dist/index.js",
