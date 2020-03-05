@@ -14,3 +14,6 @@ build
 # Servie Workers
 sw.*
 
+# NPM
+.npmignore
+

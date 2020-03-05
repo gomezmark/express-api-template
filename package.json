@@ -1,9 +1,8 @@
 {
   "name": "express-api-template",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "./src/index.js",
   "license": "MIT",
-  "private": true,
   "type": "module",
   "engines": {
     "node": "12.13.0"
@@ -39,5 +38,21 @@
     "ts-node": "^8.5.4",
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.4"
-  }
+  },
+  "description": "- yarn install",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezmark/express-api-template.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "template"
+  ],
+  "author": "MG",
+  "bugs": {
+    "url": "https://github.com/gomezmark/express-api-template/issues"
+  },
+  "homepage": "https://github.com/gomezmark/express-api-template#readme",
+  "files": ["*"]
 }
