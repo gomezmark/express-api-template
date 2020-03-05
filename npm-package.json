@@ -1,0 +1,10 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.3",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://github.com/gomezmark/express-api-template.git",
+  "author": "mg",
+  "files": ["*"]
+}
